@@ -1,4 +1,6 @@
-Hey, my name is Melika. ![image of a cute dog]
+Hey, my name is Melika. 
+![an anime corgi dog sitting down with its tongue out]
+
 
 <!--
 **melikazendedel-byte/melikazendedel-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
